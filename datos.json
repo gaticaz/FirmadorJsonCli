@@ -1,0 +1,15 @@
+{
+  "id": 12345,
+  "nombre": "Juan Pérez",
+  "email": "juan.perez@ejemplo.com",
+  "fechaNacimiento": "1985-08-23",
+  "activo": true,
+  "roles": ["usuario", "editor"],
+  "direccion": {
+    "calle": "Av. Siempre Viva 742",
+    "ciudad": "Springfield",
+    "provincia": "Buenos Aires",
+    "codigoPostal": "1234"
+  },
+  "ultimaActualizacion": "2025-06-19T10:30:00Z"
+}
