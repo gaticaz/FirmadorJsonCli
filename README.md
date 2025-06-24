@@ -30,6 +30,7 @@ Aplicación CLI en Java para firmar digitalmente archivos JSON utilizando firmas
 git clone https://github.com/usuario/FirmadorJsonCli.git
 cd FirmadorJsonCli
 mvn clean package
+```
 
 El ejecutable se generará en: target/FirmadorJsonCli-1.0-SNAPSHOT.jar
 
