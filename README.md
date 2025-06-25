@@ -40,9 +40,9 @@ El ejecutable se generará en: target/FirmadorJsonCli-1.0-SNAPSHOT.jar
 
 Crear un archivo llamado config.properties en el mismo directorio que el .jar, con el siguiente contenido:
 
-cert.path=certificado.p12
-cert.password=tu_password
-tsa.url=https://freetsa.org/tsr
+cert.path=certificado.p12  
+cert.password=tu_password  
+tsa.url=https://freetsa.org/tsr  
 
 ---
 
